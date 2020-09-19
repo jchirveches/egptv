@@ -1,15 +1,10 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <tv generator-info-name="Some tv generator">
-
-
   <channel id="TLC">
     <display-name lang="es">TLC</display-name>
 
   </channel>
-  
-
-  
   <programme start="20200918010100 -0100" stop="20200919230000 -0100" channel="TLC">
 	  <title lang="es">Prueba TLC</title>
 	  <desc lang="es">asdasdasdas xcnvmzxcv,zx masdnfam,sdfnamsnf,as</desc>

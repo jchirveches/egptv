@@ -1,19 +1,337 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.11.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-
-  <channel id="CUL SD: TLC">
-    <display-name lang="es">TLC SD</display-name>
-  </channel>
-  <channel id="TLC">
-    <display-name lang="es">TLC</display-name>
+  <channel id="CUL SD: INVESTIGATION DISCOVERY">
+    <display-name lang="es">CUL SD: INVESTIGATION DISCOVERY</display-name>
+    <icon src="https://raw.githubusercontent.com/dracohe/picon/master/TVE.png" />
+    <url>http://www.movistarplus.es</url>
   </channel>
     
-  <programme start="20200918010100 -0100" stop="20200919230000 -0100" channel="CUL SD: TLC">
-	  <title lang="es">Prueba TLC CUL</title>
-	  <desc lang="es">asdasdasdas xcnvmzxcv,zx masdnfam,sdfnamsnf,as</desc>
+programme start="20200918005300 +0200" stop="20200918015000 +0200" channel="CUL SD: INVESTIGATION DISCOVERY">
+    <title lang="es">Viaje al centro de la tele: 70 y Pop</title>
+    <desc lang="es">T8  Ep.8 (+Tp) 2019. España. ★★★☆☆. Dir: Pedro Santos. 
+Argumento: Viaje musical alrededor de las canciones e intérpretes que encabezaron las listas de éxitos en los setenta. Figuras como Nino Bravo, Camilo Sesto, George Harrison, Pop Tops, Sandro Giacobbe, Umberto Tozzi, Carlos Santana, Julio Iglesias, Pablo Abraira y muchos más. 
+Categoría: Entretenimiento, Zapping. </desc>
+    <category lang="es">Entretenimiento</category>
+    <category lang="es">Zapping</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP1730723" />
+    <country lang="es">España</country>
+    <star-rating system="ES">
+      <value>★★★☆☆</value>
+    </star-rating>
+    <review type="text">Ratings: Tp.</review>
   </programme>
-  <programme start="20200918010100 -0100" stop="20200919230000 -0100" channel="TLC">
-	  <title lang="es">Prueba TLC</title>
-	  <desc lang="es">asdasdasdas xcnvmzxcv,zx masdnfam,sdfnamsnf,as</desc>
+  <programme start="20200918015000 +0200" stop="20200918034000 +0200" channel="CUL SD: INVESTIGATION DISCOVERY">
+    <title lang="es">La noche en 24 horas</title>
+    <desc lang="es">2020. España. ★★★☆☆. Dir: Xabier Fortes. 
+Argumento: Informativo diario nocturno presentado por Xabier Fortes que ofrece un análisis profundo y plural de la actualidad de la jornada. 
+Categoría: Información, Informativo. </desc>
+    <category lang="es">Información</category>
+    <category lang="es">Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP1817603" />
+    <country lang="es">España</country>
+    <star-rating system="ES">
+      <value>★★★☆☆</value>
+    </star-rating>
+  </programme>
+  <programme start="20200918034000 +0200" stop="20200918060000 +0200" channel="CUL SD: INVESTIGATION DISCOVERY">
+    <title lang="es">Noticias 24H</title>
+    <desc lang="es">★★★☆☆. 
+Argumento: Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España. 
+Categoría: Información, Informativo. </desc>
+    <category lang="es">Información</category>
+    <category lang="es">Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP518403" />
+    <star-rating system="ES">
+      <value>★★★☆☆</value>
+    </star-rating>
+  </programme>
+  <programme start="20200918060000 +0200" stop="20200918063000 +0200" channel="CUL SD: INVESTIGATION DISCOVERY">
+    <title lang="es">Noticias 24H</title>
+    <desc lang="es">★★★☆☆. 
+Argumento: Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España. 
+Categoría: Información, Informativo. </desc>
+    <category lang="es">Información</category>
+    <category lang="es">Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP518403" />
+    <star-rating system="ES">
+      <value>★★★☆☆</value>
+    </star-rating>
+  </programme>
+  <programme start="20200918063000 +0200" stop="20200918080000 +0200" channel="CUL SD: INVESTIGATION DISCOVERY">
+    <title lang="es">Telediario Matinal</title>
+    <desc lang="es">2019. España. ★★★☆☆. 
+Argumento: Sirun Demirjian conduce este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva. 
+Categoría: Información, Informativo. </desc>
+    <category lang="es">Información</category>
+    <category lang="es">Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP1709045" />
+    <country lang="es">España</country>
+    <star-rating system="ES">
+      <value>★★★☆☆</value>
+    </star-rating>
+  </programme>
+  <programme start="20200918080000 +0200" stop="20200918100000 +0200" channel="CUL SD: INVESTIGATION DISCOVERY">
+    <title lang="es">La hora de La 1: La hora política</title>
+    <desc lang="es">(+7) 2020. España. ★★★☆☆. Dir: Ana Rodríguez, Mónica López. 
+Argumento: Magazine matinal de la 1 presentado por Mónica López en el que se reúne información de actualidad con reportajes y entrevistas dedicados a analizar en profundidad el mundo de la política. 
+Categoría: Entretenimiento, Magacín. </desc>
+    <category lang="es">Entretenimiento</category>
+    <category lang="es">Magacín</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP1814364" />
+    <country lang="es">España</country>
+    <star-rating system="ES">
+      <value>★★★☆☆</value>
+    </star-rating>
+    <review type="text">Ratings: 7.</review>
+  </programme>
+  <programme start="20200918100000 +0200" stop="20200918130000 +0200" channel="CUL SD: INVESTIGATION DISCOVERY">
+    <title lang="es">La hora de La 1: La hora de la actualidad</title>
+    <desc lang="es">(+16) 2020. España. ★★★★★. Dir: Ana Rodríguez, Mónica López. 
+Argumento: Magazine matinal de la 1 presentado por Mónica López en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servició público para ayudar a los ciudadanos en su día a día. 
+Categoría: Entretenimiento, Magacín. </desc>
+    <category lang="es">Entretenimiento</category>
+    <category lang="es">Magacín</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP1812029" />
+    <country lang="es">España</country>
+    <star-rating system="ES">
+      <value>★★★★★</value>
+    </star-rating>
+    <review type="text">Ratings: 16.</review>
+  </programme>
+  <programme start="20200918130000 +0200" stop="20200918135500 +0200" channel="CUL SD: INVESTIGATION DISCOVERY">
+    <title lang="es">Cocina al punto con Peña y Tamara</title>
+    <desc lang="es">(+Tp) 2020. España. ★★★★★. 
+Argumento: El programa de Javier Peña y Tamara Falcó recorre España para mostrar la calidad del producto gastronómico nacional, sus lugares de producción, los agricultores y profesionales encargados de su producción. Además, mostrará las recetas más adecuadas para esos productos. 
+Categoría: Ocio y Aficiones, Cocina. </desc>
+    <category lang="es">Ocio y Aficiones</category>
+    <category lang="es">Cocina</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP1798431" />
+    <country lang="es">España</country>
+    <star-rating system="ES">
+      <value>★★★★★</value>
+    </star-rating>
+    <review type="text">Ratings: Tp.</review>
+  </programme>
+  <programme start="20200918135500 +0200" stop="20200918141000 +0200" channel="CUL SD: INVESTIGATION DISCOVERY">
+    <title lang="es">Redifusión La1</title>
+    <desc lang="es">★★★☆☆. 
+Argumento: Redifusión de los mejores momentos de La1. 
+Categoría: Entretenimiento, Programa. </desc>
+    <category lang="es">Entretenimiento</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M919674V1599786" />
+    <star-rating system="ES">
+      <value>★★★☆☆</value>
+    </star-rating>
+  </programme>
+  <programme start="20200918141000 +0200" stop="20200918150000 +0200" channel="CUL SD: INVESTIGATION DISCOVERY">
+    <title lang="es">Bloqueados por el muro</title>
+    <desc lang="es">(+Tp) 2020. España. ★★★★★. 
+Argumento: Basado en el formato 'Block out', este concurso combina conocimientos, suerte, equilibrio y diversión. Dos equipos de familiares o amigos de 4 jugadores juegan sobre un muro en el que deben sortear unos bloques que tratan de tirarlos y si caen, pierden. 
+Categoría: Entretenimiento, Concurso. </desc>
+    <category lang="es">Entretenimiento</category>
+    <category lang="es">Concurso</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP1799965" />
+    <country lang="es">España</country>
+    <star-rating system="ES">
+      <value>★★★★★</value>
+    </star-rating>
+    <review type="text">Ratings: Tp.</review>
+  </programme>
+  <programme start="20200918150000 +0200" stop="20200918155500 +0200" channel="CUL SD: INVESTIGATION DISCOVERY">
+    <title lang="es">Telediario 1</title>
+    <desc lang="es">★★★☆☆. 
+Argumento: El noticiario audiovisual más veterano de la historia de la televisión en España. Ana Blanco conduce este espacio que ofrece un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte presentada por Lourdes García Campos. 
+Categoría: Información, Informativo. </desc>
+    <category lang="es">Información</category>
+    <category lang="es">Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP518438" />
+    <star-rating system="ES">
+      <value>★★★☆☆</value>
+    </star-rating>
+  </programme>
+  <programme start="20200918155500 +0200" stop="20200918161500 +0200" channel="CUL SD: INVESTIGATION DISCOVERY">
+    <title lang="es">Redifusión La1</title>
+    <desc lang="es">★★★☆☆. 
+Argumento: Redifusión de los mejores momentos de La1. 
+Categoría: Entretenimiento, Programa. </desc>
+    <category lang="es">Entretenimiento</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M919674V1599786" />
+    <star-rating system="ES">
+      <value>★★★☆☆</value>
+    </star-rating>
+  </programme>
+  <programme start="20200918161500 +0200" stop="20200918163000 +0200" channel="CUL SD: INVESTIGATION DISCOVERY">
+    <title lang="es">El tiempo</title>
+    <desc lang="es">★★★☆☆. 
+Argumento: La mejor manera de enterarse de la previsión meteorológica para los próximos días. La información del tiempo de Televisión Española es un clásico de la historia audiovisual española. Avalada por el Instituto Nacional de Meteorología, goza de un alto nivel de acierto. 
+Categoría: Información, Meteorología. </desc>
+    <category lang="es">Información</category>
+    <category lang="es">Meteorología</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP332735" />
+    <star-rating system="ES">
+      <value>★★★☆☆</value>
+    </star-rating>
+  </programme>
+  <programme start="20200918163000 +0200" stop="20200918171500 +0200" channel="CUL SD: INVESTIGATION DISCOVERY">
+    <title lang="es">Mercado central</title>
+    <desc lang="es">T1 Ep.245 (+7) 2019. España. Dir: Joan Noguera. Int: Begoña Maestre, Jesús Olmedo, Lola Marceli, Antonio Garrido. 
+Argumento: Tras una inspección municipal, en el mercado tiene que haber una reconversión y no se considera viable que continúe con su actividad. Tras esa decisión se encuentra un importante fondo de inversores que quiere convertirlo en un lujoso centro comercial. La asociación de comerciantes del mercado consigue que el consistorio aplace la decisión: tendrán un año para modernizar el recinto. Pero no todas las familias tienen la misma opinión, y prefieren aprovechar la oportunidad y obtener alguna ganancia. Joan Noguera dirige esta serie diaria de televisión ambientada en el corazón de uno de los barrios más populares de Madrid. Producida por RTVE, cuenta con un reparto coral encabezado por Antonio Garrido (''La chica de ayer''), Begoña Maestre (''Arriya''), Jesús Olmedo (''Hospital Central'') y Lola Marceli (''La spagnola''). La serie narra las relaciones laborales, personales y sentimentales de las personas que viven de los negocios del mercado. 
+Categoría: Series, Drama. </desc>
+    <category lang="es">Series</category>
+    <category lang="es">Drama</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP1818631" />
+    <country lang="es">España</country>
+    <review type="text">Ratings: 7.</review>
+  </programme>
+  <programme start="20200918171500 +0200" stop="20200918181500 +0200" channel="CUL SD: INVESTIGATION DISCOVERY">
+    <title lang="es">Servir y proteger</title>
+    <desc lang="es">T4 Ep.234 (+7) 2019. España. Int: María Barranco, Ana Fernández, Mamen Camacho, Luisa Martín. 
+Argumento: Cuarta temporada de esta serie protagonizada por Alicia Ocaña, una joven recién salida de la Academia de Policía que llega a la comisaría del barrio sur de Madrid. En esta nueva entrega, el apellido Soler sigue vinculado a los asuntos más turbios del barrio, que recibe a nuevos vecinos.Con una marcada presencia femenina en los personajes principales, esta serie policiaca aborda el día a día de una comisaría de barrio. Los casos que se investigan, pequeños o grandes en la escala criminal, no dejan de ser cruciales para las vidas de los afectados, lo que permitirá poner el foco en conflictos de carácter social. La ficción busca además exhibir el lado más humano de los policías, sus emociones y sentimientos ante los casos que se encuentran y mostrar cómo afecta cada caso a la vida del barrio.Luisa Martín (''Médico de familia'', ''B&amp;b, de boca en boca''), protagonista desde el comienzo de ''Servir y proteger'', continúa al frente de esta serie creada por Tirso Calero (''Amar es para siempre'', ''Gran Reserva. El origen''). Daniel Muriel (''Diamantes negros''), Cristina Abad (''Fatum''), María Molins (''El árbol de la sangre'') y Patxi Freytez (''El comisario'') son las nuevas incorporaciones. 
+Categoría: Series, Policiaca. </desc>
+    <category lang="es">Series</category>
+    <category lang="es">Policiaca</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP1818632" />
+    <country lang="es">España</country>
+    <review type="text">Ratings: 7.</review>
+  </programme>
+  <programme start="20200918181500 +0200" stop="20200918191000 +0200" channel="CUL SD: INVESTIGATION DISCOVERY">
+    <title lang="es">Acacias 38</title>
+    <desc lang="es">T1 Ep.1345 (+7) 2015. España. Int: Sandra Marchena, Sheyla Fariña, Roger Berruezo, Sara Miquel. 
+Argumento: Una historia de ricos y pobres que conviven en un único espacio, en un portal situado en el número 38 de la calle Acacias. Allí florecen sentimientos como el amor, los celos, las pasiones, las venganzas, los odios y la alegría. La familia Serna, los Álvarez- Hermoso, los Hidalgo, los Palacios, sus criadas y la gente del barrio pasan cada día por la puerta de esta escalera.Una telenovela española que se desarrolla entre finales del siglo XIX y principios del XX y que pretende contar la historia de un grupo de sirvientes y las familias burguesas para las que trabajan. La ficción es una idea original de Susana López Rubio, Aurora Guerra, Miquel Peidró y Josep Cister. Entre sus referentes hay series como ''Criadas y Señoras'', ''Downton Abbey'' o ''Arriba y Abajo'', pero también mucho de la literatura española de aquella época como ''Fortunata y Jacinta'' o ''Misericordia''.Se trata de una serie coral en la que intervienen muchos actores conocidos por sus trabajos en la pequeña pantalla (Sheyla Fariña, Roger Berruezo, Sara Miquel, Andrea López, Inés Aldea...). Está rodada en dos platós que suman 2.600 metros cuadrados para recrear los interiores y los exteriores del portal. 
+Categoría: Series, Telenovela. </desc>
+    <category lang="es">Series</category>
+    <category lang="es">Telenovela</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP1818633" />
+    <country lang="es">España</country>
+    <review type="text">Ratings: 7.</review>
+  </programme>
+  <programme start="20200918191000 +0200" stop="20200918200000 +0200" channel="CUL SD: INVESTIGATION DISCOVERY">
+    <title lang="es">El cazador</title>
+    <desc lang="es">(+Tp) 2020. España. ★★★★☆. 
+Argumento: Concurso de preguntas y respuestas en el que concursantes anónimos luchan frente a un concursante profesional de la televisión para obtener un gran premio final. En el programa, los cuatro concursantes unirán sus conocimientos para ganar al 'cazador'. 
+Categoría: Entretenimiento, Concurso. </desc>
+    <category lang="es">Entretenimiento</category>
+    <category lang="es">Concurso</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP1763912" />
+    <country lang="es">España</country>
+    <star-rating system="ES">
+      <value>★★★★☆</value>
+    </star-rating>
+    <review type="text">Ratings: Tp.</review>
+  </programme>
+  <programme start="20200918200000 +0200" stop="20200918203000 +0200" channel="CUL SD: INVESTIGATION DISCOVERY">
+    <title lang="es">España directo</title>
+    <desc lang="es">(+Tp) 2019. España. ★★★★☆. Dir: Enrique Álvarez. 
+Argumento: Magacín informativo muy en contacto con los temas sociales que incluye conexiones con todos los rincones de la geografía nacional. El programa pretende acercarse al espectador gracias a la abundancia de intervenciones en directo y a la espontaneidad de sus reporteros. 
+Categoría: Información, Reportajes de actualidad. </desc>
+    <category lang="es">Información</category>
+    <category lang="es">Reportajes de actualidad</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP1708294" />
+    <country lang="es">España</country>
+    <star-rating system="ES">
+      <value>★★★★☆</value>
+    </star-rating>
+    <review type="text">Ratings: Tp.</review>
+  </programme>
+  <programme start="20200918203000 +0200" stop="20200918210000 +0200" channel="CUL SD: INVESTIGATION DISCOVERY">
+    <title lang="es">Aquí la Tierra</title>
+    <desc lang="es">(+Tp) 2017. ★★★★☆. 
+Argumento: Quico Taronjí ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente. 
+Categoría: Entretenimiento, Magacín. </desc>
+    <category lang="es">Entretenimiento</category>
+    <category lang="es">Magacín</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP1383367" />
+    <star-rating system="ES">
+      <value>★★★★☆</value>
+    </star-rating>
+    <review type="text">Ratings: Tp.</review>
+  </programme>
+  <programme start="20200918210000 +0200" stop="20200918215200 +0200" channel="CUL SD: INVESTIGATION DISCOVERY">
+    <title lang="es">Telediario 2</title>
+    <desc lang="es">★★★☆☆. 
+Argumento: Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Carlos Franganillo. También hay espacio para la parcela deportiva presentada por Arsenio Cañada. 
+Categoría: Información, Informativo. </desc>
+    <category lang="es">Información</category>
+    <category lang="es">Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP518466" />
+    <star-rating system="ES">
+      <value>★★★☆☆</value>
+    </star-rating>
+  </programme>
+  <programme start="20200918215200 +0200" stop="20200918221000 +0200" channel="CUL SD: INVESTIGATION DISCOVERY">
+    <title lang="es">El tiempo</title>
+    <desc lang="es">★★★☆☆. 
+Argumento: La mejor manera de enterarse de la previsión meteorológica para los próximos días. La información del tiempo de Televisión Española es un clásico de la historia audiovisual española. Avalada por el Instituto Nacional de Meteorología, goza de un alto nivel de acierto. 
+Categoría: Información, Meteorología. </desc>
+    <category lang="es">Información</category>
+    <category lang="es">Meteorología</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP332735" />
+    <star-rating system="ES">
+      <value>★★★☆☆</value>
+    </star-rating>
+  </programme>
+  <programme start="20200918221000 +0200" stop="20200918225500 +0200" channel="CUL SD: INVESTIGATION DISCOVERY">
+    <title lang="es">Historias de Alcafrán</title>
+    <desc lang="es">(+7) 2020. España. Dir: Moisés Ramos. Int: Álex Gadea, Carlos Chamarro, Agustín Jiménez, María Isasi. 
+Argumento: Después de muchos años sin tener colegio, un joven profesor llega a Alcafrán para hacerse cargo de la escuela de adultos. Ambientada en un pueblo ficticio de La Mancha y con gran variedad de personajes que viven situaciones cotidianas y cómicas, ''Historias de Alcafrán'' es una comedia directa y familiar en la que las tramas darán una amplia visión de lo que pasa en el mundo de hoy. Tras éxitos como ''Farmacia de Guardia'' o ''Cuéntame cómo pasó'', Eduardo Ladrón de Guevara crea junto al humorista José Mota un universo en torno a un pequeño pueblo que fue próspero, pero que ahora lucha contra la despoblación. El reparto está integrado por actores españoles como María Isasi, Álex Gadea, Luis Miguel Seguí, Agustín Jiménez y Carlos Chamarro, entre otros. La serie, que originalmente iba a llamarse ''El Pilón'', es un proyecto que Mota presentó en el año 2012 a Mediaset tras su fichaje por el grupo privado, y entonces se valoró emitirla en forma de tira diaria en Cuatro. 
+Categoría: Series, Comedia. </desc>
+    <category lang="es">Series</category>
+    <category lang="es">Comedia</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP1815863" />
+    <country lang="es">España</country>
+    <review type="text">Ratings: 7.</review>
+  </programme>
+  <programme start="20200918225500 +0200" stop="20200918234500 +0200" channel="CUL SD: INVESTIGATION DISCOVERY">
+    <title lang="es">Donde viajan dos: Asturias y Cantabria</title>
+    <desc lang="es">T2  Ep.1 (+Tp) 2020. España. 
+Argumento: Langui y Jesús Vidal viajarán a Asturias y Cantabria, donde Jesús se hará una revisión ocular y coronará el L'Anglirú con un pelotón ciclista. En Cantabria Langui pilotará un rally, charlarán con Miguel Ángel Revilla y jugarán una partida de bolo palma. 
+Categoría: Entretenimiento, Tele Realidad. </desc>
+    <category lang="es">Entretenimiento</category>
+    <category lang="es">Tele Realidad</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP1819326" />
+    <country lang="es">España</country>
+    <review type="text">Ratings: Tp.</review>
+  </programme>
+  <programme start="20200918234500 +0200" stop="20200919003500 +0200" channel="CUL SD: INVESTIGATION DISCOVERY">
+    <title lang="es">Donde comen dos</title>
+    <desc lang="es">(+Tp) 2019. España. ★★★★☆. 
+Argumento: El Langui y Pablo Pineda visitan los mejores restaurantes de España, y también del extranjero, dispuestos a ponerse las botas. Mientras disfrutan de la comida, los espectadores pondrán conocer de primera mano sus motivadoras historias de superación personal. 
+Categoría: Entretenimiento, Tele Realidad. </desc>
+    <category lang="es">Entretenimiento</category>
+    <category lang="es">Tele Realidad</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP1650344" />
+    <country lang="es">España</country>
+    <star-rating system="ES">
+      <value>★★★★☆</value>
+    </star-rating>
+    <review type="text">Ratings: Tp.</review>
+  </programme>
+  <programme start="20200919003500 +0200" stop="20200919015500 +0200" channel="CUL SD: INVESTIGATION DISCOVERY">
+    <title lang="es">El caso. Crónica de sucesos</title>
+    <desc lang="es">(+12) 2016. España. ★★★☆☆. Int: Natalia Verbeke, Verónica Sánchez, Fernando Cayo, Daniel Pérez Prada. 
+Argumento: El expolicía Jesús Expósito es uno de los reporteros más veteranos del semanario de sucesos El Caso. Con la ayuda de Clara, una joven cosmopolita, investigará los crímenes más escabrosos de la España de los años 60.Ficción inspirada en hechos reales que marcaron la crónica negra de un país instalado en el franquismo. Cada episodio narra un crimen que fue o pudo haber sido portada de El Caso, el periódico de mayor tirada de la época. Esta popular publicación sacaba a la luz los sucesos más violentos y truculentos de aquellos años, y que muchas veces chocaban con la censura de la dictadura.Fernando Guillén Cuervo (''Boca a boca'') y Verónica Sánchez (''Las 13 rosas'') lideran el reparto de este thriller policíaco y de investigación periodística, que se desarrolla en un momento en que el país estaba abierto a importantes cambios culturales y sociales. Él interpreta a Jesús Expósito, un tipo solitario a quien nadie le ha regalado nada; mientras que Sánchez pone rostro a Clara López-Dóriga, universitaria de clase acomodada con ganas de comerse el mundo. 
+Categoría: Series, Suspense. </desc>
+    <category lang="es">Series</category>
+    <category lang="es">Suspense</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP1277037" />
+    <country lang="es">España</country>
+    <star-rating system="ES">
+      <value>★★★☆☆</value>
+    </star-rating>
+    <review type="text">Ratings: 12.</review>
+  </programme>
+  <programme start="20200919015500 +0200" stop="20200919060000 +0200" channel="CUL SD: INVESTIGATION DISCOVERY">
+    <title lang="es">Noticias 24H</title>
+    <desc lang="es">★★★☆☆. 
+Argumento: Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España. 
+Categoría: Información, Informativo. </desc>
+    <category lang="es">Información</category>
+    <category lang="es">Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP518403" />
+    <star-rating system="ES">
+      <value>★★★☆☆</value>
+    </star-rating>
   </programme>
 </tv>

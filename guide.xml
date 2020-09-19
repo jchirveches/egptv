@@ -4,8 +4,16 @@
   <channel id="CUL SD: TLC">
     <display-name lang="es">TLC</display-name>
   </channel>
+    <channel id="TLC">
+    <display-name lang="es">TLC</display-name>
+  </channel>
     
   <programme start="20200918010100 -0100" stop="20200919230000 -0100" channel="CUL SD: TLC">
 	  <title lang="es">Prueba TLC CUL</title>
 	  <desc lang="es">asdasdasdas xcnvmzxcv,zx masdnfam,sdfnamsnf,as</desc>
   </programme>
+  <programme start="20200918010100 -0100" stop="20200919230000 -0100" channel="TLC">
+	  <title lang="es">Prueba TLC</title>
+	  <desc lang="es">asdasdasdas xcnvmzxcv,zx masdnfam,sdfnamsnf,as</desc>
+  </programme>
+</tv>

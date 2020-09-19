@@ -3,14 +3,14 @@
 <tv generator-info-name="Some tv generator">
 
 
-  <channel id="TLCX">
-    <display-name lang="es">TLCX</display-name>
+  <channel id="TLC">
+    <display-name lang="es">TLC</display-name>
 
   </channel>
   
 
   
-  <programme start="20200918010100 -0100" stop="20200919230000 -0100" channel="TLCX">
+  <programme start="20200918010100 -0100" stop="20200919230000 -0100" channel="TLC">
 	  <title lang="es">Prueba TLC</title>
 	  <desc lang="es">asdasdasdas xcnvmzxcv,zx masdnfam,sdfnamsnf,as</desc>
   </programme>

@@ -2,8 +2,8 @@
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <tv generator-info-name="Some tv generator">
 
-  <channel id="CUL SD: INVESTIGATION DISCOVERY">
-    <display-name lang="es">CUL SD: INVESTIGATION DISCOVERY</display-name>
+  <channel id="INVESTIGATION DISCOVERY">
+    <display-name lang="es">INVESTIGATION DISCOVERY</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
   <channel id="TLC">
@@ -11,7 +11,7 @@
     <url>http://www.gatotv.com</url>
   </channel>
   
-  <programme start="20200918010100 -0100" stop="20200918230000 -0100" channel="CUL SD: INVESTIGATION DISCOVERY">
+  <programme start="20200918010100 -0100" stop="20200918230000 -0100" channel="INVESTIGATION DISCOVERY">
 	  <title lang="es">Prueba</title>
 	  <desc lang="es">asdasdasdas xcnvmzxcv,zx masdnfam,sdfnamsnf,as</desc>
   </programme>

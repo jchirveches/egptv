@@ -2,10 +2,18 @@
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="CUL SD: INVESTIGATION DISCOVERY">
     <display-name lang="es">CUL SD: INVESTIGATION DISCOVERY</display-name>
-    <url>http://www.mi.tv</url>
+    <url>http://www.gatotv.com</url>
   </channel>
   <channel id="INVESTIGATION DISCOVERY">
     <display-name lang="es">INVESTIGATION DISCOVERY</display-name>
-    <url>http://www.mi.tv</url>
+    <url>http://www.gatotv.com</url>
   </channel>
+  <programme start="20200918200101" stop="20200918235959" channel="CUL SD: INVESTIGATION DISCOVERY">
+	  <title lang="es">Prueba</title>
+	  <desc lang="es">asdasdasdas xcnvmzxcv,zx masdnfam,sdfnamsnf,as</desc>
+  </programme>
+  <programme start="20200918200101" stop="20200918235959" channel="INVESTIGATION DISCOVERY">
+	  <title lang="es">Prueba2</title>
+	  <desc lang="es">asdasdasdas xcnvmzxcv,zx masdnfam,sdfnamsnf,as</desc>
+  </programme>
 </tv>

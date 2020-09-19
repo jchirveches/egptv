@@ -6,7 +6,7 @@
     <display-name lang="es">CUL SD: INVESTIGATION DISCOVERY</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
-  <channel id="CUL SD: TLC">
+  <channel id="TLC">
     <display-name lang="es">TLC</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
@@ -16,7 +16,7 @@
 	  <desc lang="es">asdasdasdas xcnvmzxcv,zx masdnfam,sdfnamsnf,as</desc>
   </programme>
   
-  <programme start="20200918010100 -0100" stop="20200919230000 -0100" channel="CUL SD: TLC">
+  <programme start="20200918010100 -0100" stop="20200919230000 -0100" channel="TLC">
 	  <title lang="es">Prueba TLC</title>
 	  <desc lang="es">asdasdasdas xcnvmzxcv,zx masdnfam,sdfnamsnf,as</desc>
   </programme>

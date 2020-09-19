@@ -8,11 +8,11 @@
     <display-name lang="es">INVESTIGATION DISCOVERY</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
-  <programme start="20200918200101" stop="20200918235959" channel="CUL SD: INVESTIGATION DISCOVERY">
+  <programme start="20200918200101 -0100" stop="20200918235959 -0100" channel="CUL SD: INVESTIGATION DISCOVERY">
 	  <title lang="es">Prueba</title>
 	  <desc lang="es">asdasdasdas xcnvmzxcv,zx masdnfam,sdfnamsnf,as</desc>
   </programme>
-  <programme start="20200918200101" stop="20200918235959" channel="INVESTIGATION DISCOVERY">
+  <programme start="20200918200101 -0100" stop="20200918235959 -0100" channel="INVESTIGATION DISCOVERY">
 	  <title lang="es">Prueba2</title>
 	  <desc lang="es">asdasdasdas xcnvmzxcv,zx masdnfam,sdfnamsnf,as</desc>
   </programme>
